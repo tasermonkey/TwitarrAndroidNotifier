@@ -1,0 +1,13 @@
+= TwitarrNotifier
+
+This is a very fast sample project of making notifications in the Android ecosystem against a Twitarr instance.
+
+See https://github.com/walkeriniraq/twitarr[Twitarr Github] page for more information on that.
+
+== License
+
+This project is licensed http://www.gnu.org/licenses/gpl-3.0.txt[GPL].  See link:LICENSE for more information
+
+== Copyright
+
+Copyright (C) 2015 James Stapleton
