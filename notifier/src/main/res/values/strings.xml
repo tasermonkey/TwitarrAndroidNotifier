@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitarrNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_key_title">User Login Key</string>
+    <string name="base_url_title">Twitarr Base Url</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_activity_title">Settings</string>
+    <string name="polling_interval_title">Polling Interval (Seconds)</string>
+    <string name="polling_interval_summary">The lower the value of this, the quicker the drain on the battery</string>
+
+</resources>

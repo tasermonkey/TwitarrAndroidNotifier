@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:key="base_url" android:title="@string/base_url_title" android:summary=""
+            android:defaultValue="http://10.0.2.2:3000"/>
+    <EditTextPreference android:key="user_key" android:title="@string/user_key_title" android:summary=""
+                        android:defaultValue="XXXX:deadbeef"/>
+    <EditTextPreference android:key="polling_interval" android:title="@string/polling_interval_title" android:summary="@string/polling_interval_summary"
+                        android:defaultValue="20" android:numeric="integer" android:inputType="number"/>
+</PreferenceScreen>
