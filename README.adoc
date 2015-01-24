@@ -4,6 +4,14 @@ This is a very fast sample project of making notifications in the Android ecosys
 
 See https://github.com/walkeriniraq/twitarr[Twitarr Github] page for more information on that.
 
+Why not using https://developer.android.com/google/gcm/index.html[Google Cloud Messaging(GCM)] instead of polling?
+
+Because on the Cruise (the entire point of Twitarr) we don't have access to the internet.
+
+== Warning
+
+The use of this android app will probably decrease your battery life a bunch.  Especially at its default setting of polling every 20 seconds :-)
+
 == License
 
 This project is licensed http://www.gnu.org/licenses/gpl-3.0.txt[GPL].  See link:LICENSE[] for more information
